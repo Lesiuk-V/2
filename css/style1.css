@@ -1,0 +1,12 @@
+.image img{
+    height: 750px;
+    width: 750px;
+
+}
+.image{
+        float: right;
+}
+
+.text p{
+    font-size: 15pt;
+}
